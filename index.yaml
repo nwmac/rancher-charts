@@ -11,7 +11,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: clusters.fleet.cattle.io/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.11
@@ -37,7 +37,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: clusters.fleet.cattle.io/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.10
@@ -63,7 +63,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: clusters.fleet.cattle.io/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.9
@@ -88,7 +88,7 @@ entries:
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: clusters.fleet.cattle.io/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.8
@@ -113,7 +113,7 @@ entries:
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: clusters.fleet.cattle.io/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.7
@@ -138,7 +138,7 @@ entries:
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: clusters.fleet.cattle.io/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet
     apiVersion: v2
     appVersion: 0.3.6
@@ -300,7 +300,7 @@ entries:
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.11
@@ -319,7 +319,7 @@ entries:
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.10
@@ -338,7 +338,7 @@ entries:
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.9
@@ -356,7 +356,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.8
@@ -374,7 +374,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.7
@@ -392,7 +392,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-fleet-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: fleet-agent
     apiVersion: v2
     appVersion: 0.3.6
@@ -736,7 +736,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-cloud-provider
       catalog.cattle.io/ui-component: harvester-cloud-provider
       catalog.cattle.io/upstream-version: 0.1.13
@@ -762,7 +762,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-cloud-provider
       catalog.cattle.io/ui-component: harvester-cloud-provider
       catalog.cattle.io/upstream-version: 0.1.12
@@ -788,7 +788,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-cloud-provider
       catalog.cattle.io/ui-component: harvester-cloud-provider
       catalog.cattle.io/upstream-version: 0.1.8
@@ -813,7 +813,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.18.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-cloud-provider
       catalog.cattle.io/ui-component: harvester-cloud-provider
       catalog.cattle.io/upstream-version: 0.1.8
@@ -840,7 +840,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-csi-driver
       catalog.cattle.io/ui-component: harvester-csi-driver
       catalog.cattle.io/upstream-version: 0.1.14
@@ -866,7 +866,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-csi-driver
       catalog.cattle.io/ui-component: harvester-csi-driver
       catalog.cattle.io/upstream-version: 0.1.11
@@ -892,7 +892,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-csi-driver
       catalog.cattle.io/ui-component: harvester-csi-driver
       catalog.cattle.io/upstream-version: 0.1.9
@@ -917,7 +917,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.18.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.1-0 < 2.8.0-0'
       catalog.cattle.io/release-name: harvester-csi-driver
       catalog.cattle.io/ui-component: harvester-csi-driver
       catalog.cattle.io/upstream-version: 0.1.9
@@ -945,7 +945,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1035,7 +1035,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1080,7 +1080,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1125,7 +1125,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1170,7 +1170,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1214,7 +1214,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1260,7 +1260,7 @@ entries:
       catalog.cattle.io/namespace: longhorn-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: longhorn.io/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: longhorn
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: longhorn
@@ -1928,7 +1928,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permit-os: linux
       catalog.cattle.io/provides-gvr: neuvector.com/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.5-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.5-0 < 2.8.0-0'
       catalog.cattle.io/release-name: neuvector
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: neuvector
@@ -1961,7 +1961,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permit-os: linux
       catalog.cattle.io/provides-gvr: neuvector.com/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.5-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.5-0 < 2.8.0-0'
       catalog.cattle.io/release-name: neuvector
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: neuvector
@@ -2084,7 +2084,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: aksclusterconfigs.aks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-aks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -2108,7 +2108,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: aksclusterconfigs.aks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-aks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -2132,7 +2132,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: aksclusterconfigs.aks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-aks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -2155,7 +2155,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: aksclusterconfigs.aks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-aks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -2178,7 +2178,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: aksclusterconfigs.aks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-aks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -2201,7 +2201,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: aksclusterconfigs.aks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-aks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -2317,7 +2317,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.25.0-0'
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-alerting-drivers
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/upstream-version: 100.0.1
@@ -2349,7 +2349,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.23.0-0'
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-alerting-drivers
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/upstream-version: 100.0.1
@@ -2380,7 +2380,7 @@ entries:
       catalog.cattle.io/display-name: Alerting Drivers
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-alerting-drivers
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/upstream-version: 100.0.1
@@ -2411,7 +2411,7 @@ entries:
       catalog.cattle.io/display-name: Alerting Drivers
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-alerting-drivers
       catalog.cattle.io/type: cluster-tool
     apiVersion: v2
@@ -2530,7 +2530,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: resources.cattle.io.resourceset/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-backup
       catalog.cattle.io/scope: management
       catalog.cattle.io/type: cluster-tool
@@ -2561,7 +2561,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: resources.cattle.io.resourceset/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-backup
       catalog.cattle.io/scope: management
       catalog.cattle.io/type: cluster-tool
@@ -2591,7 +2591,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: resources.cattle.io.resourceset/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-backup
       catalog.cattle.io/scope: management
       catalog.cattle.io/type: cluster-tool
@@ -2620,7 +2620,7 @@ entries:
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: resources.cattle.io.resourceset/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-backup
       catalog.cattle.io/scope: management
       catalog.cattle.io/type: cluster-tool
@@ -2649,7 +2649,7 @@ entries:
       catalog.cattle.io/namespace: cattle-resources-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: resources.cattle.io.resourceset/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-backup
       catalog.cattle.io/scope: management
       catalog.cattle.io/type: cluster-tool
@@ -3104,7 +3104,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: cis.cattle.io.clusterscans/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-cis-benchmark
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: rancher-cis-benchmark
@@ -3130,7 +3130,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: cis.cattle.io.clusterscans/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-cis-benchmark
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: rancher-cis-benchmark
@@ -3156,7 +3156,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: cis.cattle.io.clusterscans/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-cis-benchmark
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: rancher-cis-benchmark
@@ -3181,7 +3181,7 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: cis.cattle.io.clusterscans/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-cis-benchmark
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: rancher-cis-benchmark
@@ -3206,7 +3206,7 @@ entries:
       catalog.cattle.io/namespace: cis-operator-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: cis.cattle.io.clusterscans/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-cis-benchmark
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: rancher-cis-benchmark
@@ -3614,7 +3614,7 @@ entries:
       catalog.cattle.io/namespace: cattle-csp-adapter-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.6-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.6-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-csp-adapter
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -3635,7 +3635,7 @@ entries:
       catalog.cattle.io/namespace: cattle-csp-adapter-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.6-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.6-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-csp-adapter
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -3658,7 +3658,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: eksclusterconfigs.eks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-eks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -3682,7 +3682,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: eksclusterconfigs.eks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-eks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -3705,7 +3705,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: eksclusterconfigs.eks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-eks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -3728,7 +3728,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: eksclusterconfigs.eks.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-eks-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -3814,7 +3814,7 @@ entries:
       catalog.cattle.io/namespace: cattle-externalip-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-external-ip-webhook
       catalog.cattle.io/ui-component: rancher-external-ip-webhook
       catalog.cattle.io/upstream-version: 1.0.1
@@ -3847,7 +3847,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-externalip-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-external-ip-webhook
       catalog.cattle.io/ui-component: rancher-external-ip-webhook
       catalog.cattle.io/upstream-version: 1.0.1
@@ -3879,7 +3879,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-externalip-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-external-ip-webhook
       catalog.cattle.io/ui-component: rancher-external-ip-webhook
     apiVersion: v1
@@ -4030,7 +4030,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: config.gatekeeper.sh.config/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gatekeeper
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: gatekeeper
@@ -4059,7 +4059,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: config.gatekeeper.sh.config/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gatekeeper
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: gatekeeper
@@ -4088,7 +4088,7 @@ entries:
       catalog.cattle.io/namespace: cattle-gatekeeper-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: config.gatekeeper.sh.config/v1alpha1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gatekeeper
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: gatekeeper
@@ -4427,7 +4427,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: gkeclusterconfigs.gke.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gke-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -4451,7 +4451,7 @@ entries:
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: gkeclusterconfigs.gke.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gke-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -4474,7 +4474,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: gkeclusterconfigs.gke.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gke-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -4497,7 +4497,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: gkeclusterconfigs.gke.cattle.io/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-gke-operator
       catalog.cattle.io/scope: management
     apiVersion: v2
@@ -4680,7 +4680,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4716,7 +4716,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4751,7 +4751,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4786,7 +4786,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4821,7 +4821,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4856,7 +4856,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4891,7 +4891,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4926,7 +4926,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: networking.istio.io.virtualservice/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4962,7 +4962,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: networking.istio.io.virtualservice/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -4997,7 +4997,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: networking.istio.io.virtualservice/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -5032,7 +5032,7 @@ entries:
       catalog.cattle.io/namespace: istio-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/provides-gvr: networking.istio.io.virtualservice/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-istio
       catalog.cattle.io/requests-cpu: 710m
       catalog.cattle.io/requests-memory: 2314Mi
@@ -5937,7 +5937,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: logging.banzaicloud.io.clusterflow/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-logging
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: logging
@@ -5967,7 +5967,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: logging.banzaicloud.io.clusterflow/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-logging
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: logging
@@ -5996,7 +5996,7 @@ entries:
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: logging.banzaicloud.io.clusterflow/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-logging
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: logging
@@ -6052,7 +6052,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/provides-gvr: logging.banzaicloud.io.clusterflow/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-logging
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: logging
@@ -6079,7 +6079,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-logging-system
       catalog.cattle.io/provides-gvr: logging.banzaicloud.io.clusterflow/v1beta1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-logging
       catalog.cattle.io/type: cluster-tool
       catalog.cattle.io/ui-component: logging
@@ -6473,7 +6473,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: monitoring.coreos.com.prometheus/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-monitoring
       catalog.cattle.io/requests-cpu: 4500m
       catalog.cattle.io/requests-memory: 4000Mi
@@ -6601,7 +6601,7 @@ entries:
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: monitoring.coreos.com.prometheus/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-monitoring
       catalog.cattle.io/requests-cpu: 4500m
       catalog.cattle.io/requests-memory: 4000Mi
@@ -6855,7 +6855,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/provides-gvr: monitoring.coreos.com.prometheus/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-monitoring
       catalog.cattle.io/requests-cpu: 4500m
       catalog.cattle.io/requests-memory: 4000Mi
@@ -6981,7 +6981,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-monitoring-system
       catalog.cattle.io/provides-gvr: monitoring.coreos.com.prometheus/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-monitoring
       catalog.cattle.io/requests-cpu: 4500m
       catalog.cattle.io/requests-memory: 4000Mi
@@ -8653,7 +8653,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-cpi
     apiVersion: v1
     appVersion: 1.2.2
@@ -8679,7 +8679,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-cpi
     apiVersion: v1
     appVersion: 1.2.1
@@ -8705,7 +8705,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-cpi
     apiVersion: v1
     appVersion: 1.1.0
@@ -8730,7 +8730,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.18.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-cpi
     apiVersion: v1
     appVersion: 1.0.1
@@ -8857,7 +8857,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux,windows
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-csi
     apiVersion: v1
     appVersion: 2.5.1-rancher1
@@ -8883,7 +8883,7 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-csi
     apiVersion: v1
     appVersion: 2.4.1-rancher1
@@ -8908,7 +8908,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.19.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-csi
     apiVersion: v1
     appVersion: 2.3.0
@@ -8934,7 +8934,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.20.0-0'
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: vsphere-csi
     apiVersion: v1
     appVersion: 2.1.1
@@ -9086,7 +9086,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.2.6
@@ -9108,7 +9108,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.2.5
@@ -9151,7 +9151,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.2.2
@@ -9172,7 +9172,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.2.1
@@ -9193,7 +9193,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-webhook
     apiVersion: v2
     appVersion: 0.2.0
@@ -9431,7 +9431,7 @@ entries:
       catalog.cattle.io/os: windows
       catalog.cattle.io/permits-os: linux,windows
       catalog.cattle.io/provides-gvr: windows.k8s.io.gmsacredentialspecs/v1
-      catalog.cattle.io/rancher-version: '>= 2.6.4-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.4-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-windows-gmsa
     apiVersion: v2
     appVersion: 0.3.0
@@ -9476,7 +9476,7 @@ entries:
       catalog.cattle.io/namespace: cattle-wins-system
       catalog.cattle.io/os: windows
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-wins-upgrader
     apiVersion: v2
     appVersion: 0.1.1
@@ -9497,7 +9497,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-wins-system
       catalog.cattle.io/os: windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: rancher-wins-upgrader
     apiVersion: v2
     appVersion: 0.1.1
@@ -9581,7 +9581,7 @@ entries:
       catalog.cattle.io/namespace: cattle-sriov-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: sriov
       catalog.cattle.io/upstream-version: 0.1.0
     apiVersion: v2
@@ -9614,7 +9614,7 @@ entries:
       catalog.cattle.io/namespace: cattle-sriov-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: sriov
       catalog.cattle.io/upstream-version: 0.1.0
     apiVersion: v2
@@ -9646,7 +9646,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-sriov-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: sriov
       catalog.cattle.io/upstream-version: 0.1.0
     apiVersion: v2
@@ -9678,7 +9678,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.22.0-0'
       catalog.cattle.io/namespace: cattle-sriov-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: sriov
     apiVersion: v2
     appVersion: 1.0.0
@@ -9773,7 +9773,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.3-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.3-0 < 2.8.0-0'
       catalog.cattle.io/release-name: system-upgrade-controller
     apiVersion: v1
     appVersion: v0.9.1
@@ -9795,7 +9795,7 @@ entries:
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.6.3-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.3-0 < 2.8.0-0'
       catalog.cattle.io/release-name: system-upgrade-controller
     apiVersion: v1
     appVersion: v0.8.1
@@ -9816,7 +9816,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.18.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.3-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.3-0 < 2.8.0-0'
       catalog.cattle.io/release-name: system-upgrade-controller
     apiVersion: v1
     appVersion: v0.8.1
@@ -9836,7 +9836,7 @@ entries:
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.25.0-0'
       catalog.cattle.io/namespace: cattle-system
       catalog.cattle.io/os: linux
-      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.7.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.6.0-0 < 2.8.0-0'
       catalog.cattle.io/release-name: system-upgrade-controller
     apiVersion: v1
     appVersion: v0.7.5
